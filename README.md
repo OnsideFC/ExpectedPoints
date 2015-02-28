@@ -20,7 +20,11 @@ possible results add up to 1.
 each club by 3 and 1 respectively.
 
 
-
 By @SimonGleave 
 
 Url: https://scoreboardjournalism.wordpress.com/2012/09/01/how-to-avoid-rank-journalism-a-simple-expected-points-model/
+
+##### Demo
+
+See the attached demo.csv whereby we have applied the above methodology to some premier league results, showing the working out and then the total expected points per game for the home (xPTSh) and away team (xPTSa)
+
