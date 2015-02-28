@@ -19,5 +19,8 @@ possible results add up to 1.
 5. Calculate the expected points by multiplying the win and draw chances for
 each club by 3 and 1 respectively.
 
-by @SimonGleave 
-url: https://scoreboardjournalism.wordpress.com/2012/09/01/how-to-avoid-rank-journalism-a-simple-expected-points-model/
+
+
+By @SimonGleave 
+
+Url: https://scoreboardjournalism.wordpress.com/2012/09/01/how-to-avoid-rank-journalism-a-simple-expected-points-model/
