@@ -1,6 +1,6 @@
 # ExpectedPoints
 
-> Calculating Expected Points from bookmarkers' odds
+> Calculating Expected Points from bookmakers' odds
 
 ## Methodology for the calculation of the expected points
 
