@@ -24,7 +24,7 @@ By [@SimonGleave](https://scoreboardjournalism.wordpress.com/2012/09/01/how-to-a
 
 ## Data
 
-using data from [football-data.co.uk](https://football-data.co.uk) for the results, fixtures and betting odds. We have used Bet 365 (B365) for the odds in the football data files.
+Using data from [football-data.co.uk](https://football-data.co.uk) for the results, fixtures and betting odds. We have used Bet 365 (B365) for the odds in the football data files.
 
 Presumably in real world or publishable data you would average the odds from all the available bookmarkers in the file to have a fairer reflection of the odds and therefore expected points
 
